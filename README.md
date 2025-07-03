@@ -30,6 +30,7 @@
 
 | Project | Description | Tech |
 | ------- | ------------ | ---- |
+| [📚 Note Sharing Project](https://github.com/GT-Onizuka/NoteSharing_Project) | A Django web app for students to share, upload, and download notes | Django, Python, MYSQL |
 
 ---
 
